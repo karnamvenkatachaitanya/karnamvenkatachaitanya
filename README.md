@@ -62,19 +62,19 @@ profile = {
 ### 🎨 Frontend & Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap,vite,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,androidstudio" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,ChromaDB" />
 </p>
 
 ### ☁️ Cloud & DevOps
