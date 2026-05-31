@@ -95,7 +95,8 @@ profile = {
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge" />
 </p>
-## 🌟 Featured Work
+
+### 🌟 Featured Work
 
 <table>
 <tr>
@@ -176,7 +177,7 @@ Demand forecasting and real-time BI dashboard. Automated revenue optimization an
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karnamvenkatachaitanya)
 
-<br/><br/>
+<br/>
 *Building AI products that create real-world impact — even offline.*
 <br/>
 </div>
